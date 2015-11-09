@@ -14,6 +14,7 @@
             <option value="$PROJECT_DIR$/p0104layoutlistenersecond" />
             <option value="$PROJECT_DIR$/p0141menuadv" />
             <option value="$PROJECT_DIR$/p0142menugames" />
+            <option value="$PROJECT_DIR$/p0151contextmenu" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
