@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<scale xmlns:adroid="http://schemas.android.com/apk/res/android"
+    adroid:fromXScale="0.1"
+    adroid:toXScale="1.0"
+    adroid:fromYScale="0.1"
+    adroid:toYScale="1.0"
+    adroid:pivotX="50%"
+    adroid:pivotY="50%"
+    adroid:duration="3000">
+
+</scale>
